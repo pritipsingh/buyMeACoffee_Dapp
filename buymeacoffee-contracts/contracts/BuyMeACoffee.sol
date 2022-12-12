@@ -1,7 +1,10 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 
+
+// import "hardhat/console.sol";
 // Uncomment this line to use console.log
+
 
 //BuyMeACoffee deployed to: 0xf1Ec0ab9b4cBF456eA5E27D36DeA4A7bebeF72BE
 
